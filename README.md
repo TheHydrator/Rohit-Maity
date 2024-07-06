@@ -29,8 +29,11 @@ Feel free to explore my repositories to see my work!
 **🔧Languages and Tools:**
 
 *-Java☕️*
+
 *-Python 🐍*
+
 *-C*
+
 *-C++ ⚙️*
 
 Calling all idea alchemists and bug warriors!  Fuel our project's fire with your contributions - open an issue or submit a pull request. Together, let's craft something truly phenomenal!
